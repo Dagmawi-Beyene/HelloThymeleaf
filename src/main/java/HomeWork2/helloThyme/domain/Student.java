@@ -6,6 +6,7 @@ public class Student {
 
 	public Student() {
 		super();
+
 	}
 
 	public Student(String fname, String lname) {
